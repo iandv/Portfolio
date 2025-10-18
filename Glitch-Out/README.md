@@ -1,5 +1,5 @@
 # Glitch-Out
-A Third person shooter inspired by Tom Raider and Half-Life where you play as a robot.
+A third person shooter inspired by Tomb Raider and Half-Life where you play as a robot.
 
 
 
