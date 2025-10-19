@@ -1,7 +1,7 @@
 # Glitch-Out
 A third person shooter inspired by Tomb Raider and Half-Life where you play as a robot.
 
-
+![1_Main Menu](https://github.com/user-attachments/assets/e615bae3-c802-417e-b7b2-d452dd652e4f)
 
 ## 🚀 Features
 - Modular damage system for limbs.
@@ -18,7 +18,7 @@ A third person shooter inspired by Tomb Raider and Half-Life where you play as a
 
 ## 🎥 Demo
 
-
+![3_Health Terminal](https://github.com/user-attachments/assets/525937e9-2db0-491d-a449-0234b61f7e0d)
 
 ## 🧠 Technology Used
 - Unity 2020.3.25f1
