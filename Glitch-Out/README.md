@@ -28,7 +28,7 @@ A third person shooter inspired by Tomb Raider and Half-Life where you play as a
 - NavMesh
 
 ## 🛠 Development Summary
-This project was continuely developed on and off in the time period of 2021 to 2024 for a few different classes in college.
+This project was developed over 3 months as part of my studies in College.
 
 ## Disclaimer
 ⚠️ This repository is for portfolio presentation only — the full Unity project is private.
