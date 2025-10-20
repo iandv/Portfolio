@@ -1,7 +1,7 @@
 # Skipper
 A 3D exploration and puzzle game taking some inspiration from early 2000s platformers and puzzle games.
 
-
+![1_Obstacles](https://github.com/user-attachments/assets/1b10dfa7-1850-42dc-840f-7a7f4d4ec6cf)
 
 ## 🚀 Features
 - Submarine diving controls.
@@ -16,7 +16,7 @@ A 3D exploration and puzzle game taking some inspiration from early 2000s platfo
 - Helped with sound design.
 
 ## 🎥 Demo
-
+![1_Magnetic Mines](https://github.com/user-attachments/assets/bc1f41dc-76ed-49e4-8a7a-b5c4a555c930)
 
 ## 🧠 Technology Used
 - Unity 2020.3.25f1
@@ -28,7 +28,7 @@ A 3D exploration and puzzle game taking some inspiration from early 2000s platfo
 - Substance
 
 ## 🛠 Development Summary
-This project was developed over 3 months as part of my studies in College.
+This project was developed over 3 months as part of my studies in college.
 
 ## Disclaimer
 ⚠️ This repository is for portfolio presentation only — the full Unity project is private.
