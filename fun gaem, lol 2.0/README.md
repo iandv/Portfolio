@@ -1,4 +1,4 @@
-# fun gaem, lol 2.0
+# Fun Game Online
 A 3D online multiplayer versus game inspired by Fall Guys.
 
 ![Untitled](https://github.com/user-attachments/assets/d74b1d21-6480-4406-af34-ba2a30e33301)
